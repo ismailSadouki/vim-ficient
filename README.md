@@ -1,4 +1,4 @@
-# My Vim Config
+# My semple Vim Config
 Move over boring text editors, there's a new sheriff in town! 💥
 
 This is my personal Vim configuration, and it's loaded with all the horsepower you need to tackle any coding challenge! 💻
